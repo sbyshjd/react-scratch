@@ -1,0 +1,1 @@
+This is the react app from scratch(without CLI) try to practise Webpack and Babel configuration
